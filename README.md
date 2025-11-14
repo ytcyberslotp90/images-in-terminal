@@ -69,7 +69,7 @@ Credits appreciated! 😊
 
 ---
 
-YouTube: [Cyber Slot](https://www.youtube.com/@cyberslot-p90)
-Discord: [Get Discord invite link](https://discord.gg/6bdpB4Bh)
-WebSite: [Official WebSite](https://csp90.pages.dev)
-App Store: [Cyber Slot App Store](https://apps-csp90.pages.dev)
+- YouTube: [Cyber Slot](https://www.youtube.com/@cyberslot-p90)
+- Discord: [Get Discord invite link](https://discord.gg/6bdpB4Bh)
+- WebSite: [Official WebSite](https://csp90.pages.dev)
+- App Store: [Cyber Slot App Store](https://apps-csp90.pages.dev)
